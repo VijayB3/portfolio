@@ -3,7 +3,7 @@
 Welcome to my **DevOps and Cloud Portfolio**! This repository hosts my personal portfolio website where I showcase my skills, projects, and experience as a DevOps-focused engineer.
 
 ## 🌐 Live Demo
-You can view the hosted portfolio here: https://vijayb3.github.io/Portfolio/
+You can view the hosted portfolio here: (https://vijayb3.github.io/portfolio/)
 
 ---
 
