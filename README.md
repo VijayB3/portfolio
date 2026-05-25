@@ -1,4 +1,4 @@
-# Vijay B | DevOps & Cloud Portfolio.
+# Vijay B | DevOps & Cloud Portfolio
 
 Welcome to my **DevOps and Cloud Portfolio**! This repository hosts my personal portfolio website where I showcase my skills, projects, and experience as a DevOps-focused engineer.
 
